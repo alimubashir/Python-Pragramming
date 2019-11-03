@@ -1,0 +1,6 @@
+input("Press Enter to get started with task#04\n")
+radius = int(input("Enter the radius here : "))
+print("")
+print("Area of circle of the given radius is", (22//7)*(radius**2), "sq. meter")
+print("")
+input("Hit the Enter key to get out!\nTHANK YOU!")

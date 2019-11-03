@@ -1,0 +1,12 @@
+input("Press Enter key to get started with task#06")
+print("")
+print("")
+a = int(input("Enter no. of books you had :"))
+print("")
+b = int(input("Enter no. of books you bought :"))
+print("")
+print("You have total", a + b, "books now")
+print("")
+print("")
+input("Hit the Enter Key to get out, NOW!")
+ 
